@@ -1,6 +1,6 @@
 <?php
 /**
- * This file is part of the Piko user module
+ * This file is part of Piko Datatable
  *
  * @copyright 2020 Sylvain PHILIP.
  * @license MIT; see LICENSE.txt
