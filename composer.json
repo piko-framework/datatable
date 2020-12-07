@@ -1,0 +1,21 @@
+{
+	"name" : "ilhooq/piko-datatable",
+	"description" : "JQuery Datatable utility for Piko based projects.",
+	"keywords" : [
+		"piko",
+		"datatable",
+		"ui"
+	],
+	"license" : "MIT",
+	"require" : {
+		"bower-asset/datatables.net": "^1.10",
+		"bower-asset/datatables.net-plugins": "^1.10",
+		"bower-asset/datatables.net-bs4": "^1.10 ",
+		"ilhooq/piko-ui" : "@dev"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"piko\\datatable\\" : ""
+		}
+	}
+}
