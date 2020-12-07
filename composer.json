@@ -11,7 +11,7 @@
 		"bower-asset/datatables.net": "^1.10",
 		"bower-asset/datatables.net-plugins": "^1.10",
 		"bower-asset/datatables.net-bs4": "^1.10 ",
-		"ilhooq/piko-ui" : "@dev"
+		"ilhooq/piko-ui" : "^0.8"
 	},
 	"autoload" : {
 		"psr-4" : {
