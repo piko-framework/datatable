@@ -1,11 +1,11 @@
 # Piko Datatable
 
-JQuery Datatable utility for Piko based projects.
+JQuery Datatable asset bundle for Piko based projects.
 
 ## Installation
 
 ```bash
-composer require ilhooq/piko-datatable
+composer require piko/datatable
 ```
 
 ## Use
